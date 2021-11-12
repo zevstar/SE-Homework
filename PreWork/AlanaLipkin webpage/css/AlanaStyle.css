@@ -1,0 +1,56 @@
+html {
+	box-sizing: border-box;
+}
+
+	*, *::before, *::after {
+		box-sizing: inherit
+	}
+
+
+	body {
+  background-color: gray;
+}
+	h2 {
+		color: darkblue; font-size: 2em;
+
+		text-decoration: underline;
+	}
+
+	h1 {
+		color: green; font-size: 4em;
+	}
+
+	p {
+		font-size: 2em; color: orange; font-family: sans-serif;
+	}
+	
+	ul {
+		font-size: 2em;
+		font-style: italic;
+
+	}
+	.favList {
+		color: hotpink;
+	}
+
+	table {
+		color: white;
+		border: 2px solid black;
+		padding: 1em;
+
+}
+
+	input [type=text] : focus {
+		background-color: yellow;
+		color: black;
+	}
+
+
+
+
+
+.textwrap {
+			float: right;
+			margin: 10px;
+		}
+

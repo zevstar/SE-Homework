@@ -1,0 +1,49 @@
+
+	body {
+		background-color: gray;
+	}
+
+	
+		h1 {
+			color: blue;
+		}
+
+		h2 {color: green;
+		}
+
+		h3 {color: red;
+		}
+
+
+		#jerryList{
+			color: greenyellow;
+		}
+
+
+
+
+
+		#para1 {
+			color: rebeccapurple;
+		}
+		.para2 {
+			color: lawngreen;
+		}
+
+
+	 	#jerryList {
+	 		color: seagreen;
+	 	}
+	
+
+		#brown{
+			color: rosybrown;
+		}
+		#yellow{
+			color: lightyellow;
+		}
+		#yellowgreen{
+			color: yellowgreen;
+		}
+
+		background-color: gray
