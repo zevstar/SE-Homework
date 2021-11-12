@@ -7,6 +7,24 @@ html {
 	}
 
 
+
+	.staticDiv {
+ 		Position: static;
+ 		box-sizing: content-box;
+ 		border: black;
+
+}
+
+
+	.relDiv {
+		position: relative;
+		top: 1em; left: 40em;
+
+
+	}	
+
+
+
 	body {
   background-color: gray;
 }
@@ -29,16 +47,20 @@ html {
 		font-style: italic;
 
 	}
+
 	.favList {
 		color: hotpink;
 	}
 
-	table {
-		color: white;
-		border: 2px solid black;
-		padding: 1em;
+	
 
+ 
+  table, th, td {
+  border: 1px solid black;
+  font-size: 25px;
 }
+
+
 
 	input [type=text] : focus {
 		background-color: yellow;
